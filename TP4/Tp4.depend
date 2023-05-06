@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1669333859 source:c:\users\pc\desktop\practica-curso-ingreso\tps_laboratorio_1\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1560461330 c:\users\pc\desktop\practica-curso-ingreso\tps_laboratorio_1\tp4\linkedlist.h
+
+1669344282 source:c:\users\pc\desktop\practica-curso-ingreso\tps_laboratorio_1\tp4\comparisons.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"mascota.h"
+
+1669345079 c:\users\pc\desktop\practica-curso-ingreso\tps_laboratorio_1\tp4\mascota.h
+
+1669347404 source:c:\users\pc\desktop\practica-curso-ingreso\tps_laboratorio_1\tp4\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"mascota.h"
+
+1669352894 source:c:\users\pc\desktop\practica-curso-ingreso\tps_laboratorio_1\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<time.h>
+	"mascota.h"
+	"comparisons.h"
+
+1669344281 c:\users\pc\desktop\practica-curso-ingreso\tps_laboratorio_1\tp4\comparisons.h
+
+1669344282 source:c:\users\pc\desktop\eclipse-workspace\tps_laboratorio_1\tp4\comparisons.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"mascota.h"
+
+1669545440 c:\users\pc\desktop\eclipse-workspace\tps_laboratorio_1\tp4\linkedlist.h
+
+1669345079 c:\users\pc\desktop\eclipse-workspace\tps_laboratorio_1\tp4\mascota.h
+
+1669543831 source:c:\users\pc\desktop\eclipse-workspace\tps_laboratorio_1\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1669606916 source:c:\users\pc\desktop\eclipse-workspace\tps_laboratorio_1\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	<time.h>
+	"mascota.h"
+	"comparisons.h"
+
+1669344281 c:\users\pc\desktop\eclipse-workspace\tps_laboratorio_1\tp4\comparisons.h
+
+1669347404 source:c:\users\pc\desktop\eclipse-workspace\tps_laboratorio_1\tp4\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"mascota.h"
+
